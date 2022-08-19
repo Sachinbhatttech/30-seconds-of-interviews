@@ -275,6 +275,7 @@ Triple equals (`===`) checks for strict equality, which means both the type and 
 
 
 * [MDN docs for comparison operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators)
+* [Scaler Difference Between == and ===](https://www.scaler.com/topics/javascript/difference-between-double-equals-and-triple-equals-in-javascript/)  
 
 </details>
 
